@@ -13,7 +13,7 @@ An NLP-powered document processing system that automatically extracts key inform
 ## 💻 Tech Stack
 
 - **NLP**: Hugging Face Transformers, spaCy
-- **Backend**: FastAPI, Python
+- **Backend**: FastAPI, Python (3.11.6)
 - **Frontend**: Streamlit or Gradio
 - **Deployment**: Docker, Cloud deployment (Heroku/Render/AWS)
 
